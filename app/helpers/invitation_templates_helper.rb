@@ -1,0 +1,2 @@
+module InvitationTemplatesHelper
+end
